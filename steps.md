@@ -8,4 +8,4 @@
 6. Chiediamo il colore preferito dell'utente
 7. Salviamo il colore preferito in una variabile
 8. Calcoliamo la password dell'utente
-9. Inserisco il risultato nell'elemento del DOM
+9. Inserisco il risultato nell'elemento del DOM.
